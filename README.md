@@ -1,2 +1,1 @@
-# cms_site
-php cms site
+Create the database in mysql with name cms
